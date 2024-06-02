@@ -315,11 +315,11 @@
       "denom_units": [
         {
           "denom": "move/944f8dd8dc49f96c25fea9849f16436dcfa6d564eec802f3ef7f8b3ea85368ff",
-          "exponent": 0
+          "exponent": 5
         },
         {
           "denom": "GAS",
-          "exponent": 6
+          "exponent": 10
         }
       ],
       "base": "move/944f8dd8dc49f96c25fea9849f16436dcfa6d564eec802f3ef7f8b3ea85368ff",
